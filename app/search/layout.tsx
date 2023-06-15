@@ -4,6 +4,8 @@ import FilterList from 'components/layout/search/filter';
 import { sorting } from 'lib/constants';
 import { Suspense } from 'react';
 
+// something to commit
+
 export default function SearchLayout({ children }: { children: React.ReactNode }) {
   return (
     <Suspense>
